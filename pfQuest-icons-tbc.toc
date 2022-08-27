@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: |cff33ffccpf|cffffffffQuest |cffcccccc[Gatherer Icons]
+## Author: Shagu
+## Notes: Replace node icons with gatherer textures
+## Version: GIT
+## Dependencies: pfQuest-tbc
+
+pfQuest-icons.lua
