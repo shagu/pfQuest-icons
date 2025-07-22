@@ -1,7 +1,7 @@
 ## Interface: 11200
-## Title: |cff33ffccpf|cffffffffQuest |cffcccccc[Gatherer Icons]
+## Title: |cff33ffccpf|cffffffffQuest |cffcccccc[Icons]
 ## Author: Shagu
-## Notes: Replace node icons with gatherer textures
+## Notes: Replace all node icons with icon textures
 ## Version: GIT
 ## Dependencies: pfQuest
 
