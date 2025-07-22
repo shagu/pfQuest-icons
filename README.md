@@ -1,6 +1,11 @@
 # pfQuest-icons
 
-An extension for pfQuest to use [Gatherer](https://www.curseforge.com/wow/addons/gatherer) icons on resource nodes (`/db herbs`, `/db mines`, `/db chests`).
+> [!IMPORTANT]
+>
+> **This addon is no longer necessary for displaying icons when tracking resource nodes.**
+>
+
+An extension for pfQuest to use modified [Gatherer](https://www.curseforge.com/wow/addons/gatherer) icons on all resource nodes.
 
 ![screenshot](screenshot.png)
 
